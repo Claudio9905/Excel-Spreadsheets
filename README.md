@@ -1,4 +1,4 @@
-Progetto in Python sull'automazione di un foglio di calcolo Excel( il file transaction.xlsx presente nella directory).
+Progetto in Python sull'automazione di un foglio di calcolo Excel ( il file transaction.xlsx presente nella directory).
 Il programma contiene una funzione, in modo che è possibile adattarla passandogli come parametro
 il nome del foglio Excel, che modifica i valori presenti in una colonna, quella del prezzo, con un apposito grafico.
 
